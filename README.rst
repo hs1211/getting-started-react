@@ -1,6 +1,5 @@
 REACT STUDY
 ===========
-
 개발 속도가 너무 늦어지고 있어서 간단한 기능 및 신규 기능 개발 시에 프론트와 함께 개발에 참여하기 위하여 
 이전에 학습한 내용을 다시한번 정리한다.
 
@@ -84,9 +83,11 @@ Javascript 2015 or ECMAScript 6 or ES6
   utils.sum(1,2);
 
 3) Template string
+
 - How to use
 
 .. code-block:: Javascript
+
   // Generate string
   var greeting = `Yo World!`;
 
