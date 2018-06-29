@@ -36,6 +36,7 @@ Javascript 2015 or ECMAScript 6 or ES6
   pt.toString()
 
 2) Module
+
 - Export
 
 .. code-block:: Javascript
