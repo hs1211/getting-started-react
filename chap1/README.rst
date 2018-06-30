@@ -60,6 +60,7 @@ Webpack을 통하여 1차 변환작업을 거치고, 이후에 번들로 생성�
 실행은 다음의 명령어로 실행했다.
 
 .. code-block:: text
+
   //run script
   $ yarn run start
 
